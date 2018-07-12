@@ -1,2 +1,2 @@
-# FnkWallet
-The FNK wallet
+# FnkOS Wallet
+The FNKOS wallet
